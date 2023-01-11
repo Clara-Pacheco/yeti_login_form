@@ -17,11 +17,11 @@
 <br>
 <br>
 
-## Preview  
+## ⛄ Preview  
 
 ![preview](https://github.com/Clara-Pacheco/yeti_login_form/blob/main/video/Yeti_Login_Form-Google-Chrome-2023-01-11-18-20-52.gif)
 
-# ## 🧪 Tecnologias 
+ ## 🧪 Tecnologias 
 
  HTML5,<br>
  CSS3,<br>
