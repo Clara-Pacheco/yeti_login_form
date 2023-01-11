@@ -2,7 +2,9 @@
 <img width="400px" src="https://thetrailconservancy.org/wp-content/uploads/2020/10/YETI-Logo-Social.png" alt="">&nbsp;&nbsp;&nbsp;
 </div>
 
+<div align="center">
 # YETI LOGIN'S ANIMATED FORM
+</div>
 
 <div align="center">
 <img width="400px" src="https://media0.giphy.com/media/35PYs5wP4wk0PqPx4H/giphy.gif?cid=ecf05e47ehnnjmpxjv87vsn901cqqroxdfkwhzn2hluijkuv&rid=giphy.gif&ct=g" alt="">&nbsp;&nbsp;&nbsp;
@@ -21,8 +23,16 @@
 
 ![preview](https://github.com/Clara-Pacheco/yeti_login_form/blob/main/video/Yeti_Login_Form-Google-Chrome-2023-01-11-18-20-52.gif)
 
+# ## 🧪 Tecnologias 
 
-
+ HTML5,<br>
+ CSS3,<br>
+ Sass<br>
+ Vanilla JS;<br>
+ Motion Design with:<br>
+     gsap;<br>
+    
+Feito com 💜 por Clara 🚀
 
 
  
