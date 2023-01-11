@@ -1,5 +1,5 @@
 <div align="center">
-<img width="400px" src="https://thetrailconservancy.org/wp-content/uploads/2020/10/YETI-Logo-Social.png" alt="">&nbsp;&nbsp;&nbsp;
+<img width="400px" src="https://elements-cover-images-0.imgix.net/c9badd6f-6e38-41ed-8c7e-4c4d883ed2b4?auto=compress%2Cformat&fit=max&w=900&s=d2a0ff94c8aafb2a751c34f9b139e1a5" alt="">&nbsp;&nbsp;&nbsp;
 
 # Yeti animated login's form |HTML|CSS|Javascript
 
