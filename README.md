@@ -1,10 +1,8 @@
 <div align="center">
 <img width="400px" src="https://thetrailconservancy.org/wp-content/uploads/2020/10/YETI-Logo-Social.png" alt="">&nbsp;&nbsp;&nbsp;
-</div>
 
-<div align="center">
-# YETI LOGIN'S ANIMATED FORM
-</div>
+# Yeti animated login's form |HTML|CSS|Javascript
+
 
 <div align="center">
 <img width="400px" src="https://media0.giphy.com/media/35PYs5wP4wk0PqPx4H/giphy.gif?cid=ecf05e47ehnnjmpxjv87vsn901cqqroxdfkwhzn2hluijkuv&rid=giphy.gif&ct=g" alt="">&nbsp;&nbsp;&nbsp;
@@ -35,4 +33,4 @@
 Feito com 💜 por Clara 🚀
 
 
- 
+ </div>
